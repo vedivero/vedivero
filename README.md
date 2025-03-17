@@ -1,4 +1,4 @@
-## Hi there 👋🔭🌱👯🤔💬📫😄⚡✨
+# Hi there 👋🔭🌱👯🤔💬📫😄⚡✨
 
 <p align="center">
   <a href="#" onclick="return false;">
@@ -9,7 +9,7 @@
   </a>
 </p>
 
-## 📚 STACKS
+# 📚 STACKS
 
 #### 🖥️ 프로그래밍 언어
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
