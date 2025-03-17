@@ -2,16 +2,12 @@
 
 <p align="center">
   <a href="#" onclick="return false;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox" width="49%"> 
+    <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox" width="48%" height="200"> 
   </a>
   <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=vedivero&utm_content=farm">
-    <img src="https://render.gitanimals.org/farms/vedivero" width="49%" height="300">
+    <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="200">
   </a>
 </p>
-
-
-
-
 
 ## 📚 STACKS
 
