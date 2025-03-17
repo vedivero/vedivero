@@ -5,8 +5,6 @@
   <img src="https://render.gitanimals.org/lines/vedivero" width="49%">
 </p>
 
-
-
 ## 📚 STACKS
 
 #### 🖥️ 프로그래밍 언어
