@@ -1,6 +1,6 @@
 ## Hi there 👋🔭🌱👯🤔💬📫😄⚡✨
 
-<p align="center">
+<p align="center" style="pointer-events: none;">
   <img src="https://github-readme-stats.vercel.app/api?username=vedivero" width="49%">
   <img src="https://render.gitanimals.org/lines/vedivero" width="49%">
 </p>
