@@ -1,6 +1,9 @@
 ## Hi there 👋🔭🌱👯🤔💬📫😄⚡✨
 
-[![minseon yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=vedivero)](https://github.com/vedivero/github-readme-stats)
+| GitHub Stats | MyPet |
+|-------------|-----------|
+| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedivero) | ![GitAnimals](https://render.gitanimals.org/lines/vedivero) |
+
 
 ## 📚 STACKS
 
@@ -34,12 +37,3 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
-
-<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=vedivero&utm_content=line">
-  <img
-    src="https://render.gitanimals.org/lines/vedivero"
-    width="600"
-    height="120"
-  />
-</a>
