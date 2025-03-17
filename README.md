@@ -3,12 +3,14 @@
 <p align="center">
   <a href="#" onclick="return false;">
     <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox" width="49%"> 
-    <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula -->
   </a>
-  <a href="#" onclick="return false;">
-    <img src="https://render.gitanimals.org/lines/vedivero" width="49%">
+  <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=vedivero&utm_content=farm">
+    <img src="https://render.gitanimals.org/farms/vedivero" width="49%" height="300">
   </a>
 </p>
+
+
+
 
 
 ## 📚 STACKS
