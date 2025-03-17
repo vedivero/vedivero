@@ -55,3 +55,8 @@
   <img src="https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
+
+### 📝 My Blog
+<p align="left">
+  <a href="https://velog.io/@vedivero/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=blogger&logoColor=white"></a>
+</p>
