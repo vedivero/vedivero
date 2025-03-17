@@ -1,8 +1,10 @@
 ## Hi there 👋🔭🌱👯🤔💬📫😄⚡✨
 
-| GitHub Stats | MyPet |
-|-------------|-----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedivero) | ![GitAnimals](https://render.gitanimals.org/lines/vedivero) |
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vedivero" width="49%">
+  <img src="https://render.gitanimals.org/lines/vedivero" width="49%">
+</p>
+
 
 
 ## 📚 STACKS
