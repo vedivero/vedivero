@@ -21,7 +21,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" draggable="false">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" draggable="false">
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=coffeescript&logoColor=white" draggable="false">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" draggable="false">
 </p>
 
 #### 🚀 프레임워크 및 라이브러리
