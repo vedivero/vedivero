@@ -1,10 +1,10 @@
 # Hello, World! 👨‍💻🚀👋🔭🌱📫😄
 
 <p align="center">
-  <a href="#" onclick="return false;">
+  <a href="#" onclick="return false;" style="pointer-events: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox" width="48%" height="180"> 
   </a>
-  <a href="#">
+  <a href="#" style="pointer-events: none;">
     <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="180">
   </a>
 </p>
@@ -16,7 +16,7 @@
 # 📚 STACKS
 
 #### 🖥️ 프로그래밍 언어
-<p align="left" style="pointer-events: none;">
+<p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" draggable="false">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" draggable="false">
   <img src="https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=coffeescript&logoColor=white" draggable="false">
