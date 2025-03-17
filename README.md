@@ -1,9 +1,14 @@
 ## Hi there 👋🔭🌱👯🤔💬📫😄⚡✨
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vedivero" width="49%" style="pointer-events: none;">
-  <img src="https://render.gitanimals.org/lines/vedivero" width="49%" style="pointer-events: none;">
+  <a href="#" onclick="return false;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vedivero" width="49%">
+  </a>
+  <a href="#" onclick="return false;">
+    <img src="https://render.gitanimals.org/lines/vedivero" width="49%">
+  </a>
 </p>
+
 
 ## 📚 STACKS
 
