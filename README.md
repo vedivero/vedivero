@@ -1,4 +1,4 @@
-# Hello, World! 👨‍💻🚀👋🔭🌱📫😄
+# 👨‍💻 Hello, World! 
 
 <p align="center">
   <a href="#" onclick="return false;" style="pointer-events: none;">
