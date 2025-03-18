@@ -14,7 +14,9 @@
 
 # 🙂About Me
 
+#### 👨🏻‍💻 이력서
 [![Resume](https://img.shields.io/badge/📄%20Resume-0078D6?style=for-the-badge&logo=microsoftword&logoColor=white)](https://resume-lee.netlify.app/)
+#### 💻 블로그
 [![Blog](https://img.shields.io/badge/✍️%20Blog-20C997?style=for-the-badge&logo=blogger&logoColor=white)](https://velog.io/@vedivero/posts)
 
 <br>
