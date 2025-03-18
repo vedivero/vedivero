@@ -1,16 +1,7 @@
 # 👨‍💻 Hello, World! 
 
-<p align="center">
-  <a href="#" onclick="return false;" style="pointer-events: none;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox_light" width="48%" height="180"> 
-  </a>
-  <a href="#" style="pointer-events: none;">
-    <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="180">
-  </a>
-</p>
-
-<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, gruvbox_light-->
-<!--https://msyu1207.tistory.com/entry/git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0-feat-badge-github-readme-stats-->
+[![Resume](https://img.shields.io/badge/📄%20Resume-0078D6?style=for-the-badge&logo=microsoftword&logoColor=white)](YOUR_RESUME_LINK)
+[![Blog](https://img.shields.io/badge/✍️%20Blog-20C997?style=for-the-badge&logo=blogger&logoColor=white)](YOUR_BLOG_LINK)
 
 <br>
 
@@ -60,7 +51,16 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-#### 📝 블로그
-<p align="left">
-  <a href="https://velog.io/@vedivero/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=blogger&logoColor=white"></a>
+---
+
+<p align="center">
+  <a href="#" onclick="return false;" style="pointer-events: none;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox_light" width="48%" height="180"> 
+  </a>
+  <a href="#" style="pointer-events: none;">
+    <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="180">
+  </a>
 </p>
+
+<!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, gruvbox_light-->
+<!--https://msyu1207.tistory.com/entry/git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0-feat-badge-github-readme-stats-->
