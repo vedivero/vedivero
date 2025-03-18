@@ -56,7 +56,7 @@
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
 
-#### 📝 Blog
+#### 📝 블로그
 <p align="left">
   <a href="https://velog.io/@vedivero/posts"><img src="https://img.shields.io/badge/Blog-20C997?style=for-the-badge&logo=blogger&logoColor=white"></a>
 </p>
