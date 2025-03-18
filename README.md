@@ -48,6 +48,9 @@
 [![Glitch](https://img.shields.io/badge/Glitch-2800ff?style=for-the-badge&logo=glitch&logoColor=white)]()
 [![CloudType](https://img.shields.io/badge/CloudType-FF7800?style=for-the-badge&logo=amazonaws&logoColor=white)]()
 
+#### ⚙️ CI/CD
+[![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)]()
+
 #### 🖥️ 운영체제
 [![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)]()
 [![CentOS](https://img.shields.io/badge/CentOS-262577?style=for-the-badge&logo=centos&logoColor=white)]()
