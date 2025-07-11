@@ -1,10 +1,9 @@
 # 👨‍💻 Hello, World! 
 
 <p align="center">
-  <a href="#" onclick="return false;" style="pointer-events: none;">
+  <a href="#" style="pointer-events: none;">
     <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox_light" width="48%" height="150"> 
   </a>
-
   <a href="#" style="pointer-events: none;">
     <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="150">
   </a>
