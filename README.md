@@ -1,13 +1,13 @@
 # 👨‍💻 Hello, World! 
 
-<p align="center">
+<!--<p align="center">
   <a href="#" style="cursor:default;">
     <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox_light&hide_border=true&show_icons=true" width="48%" height="150px"/>
-  </a>
-  <a href="#" style="cursor: default;">
-    <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="150">
-  </a>
-</p>
+  </a>-->
+<a href="#" style="cursor: default;">
+  <img src="https://render.gitanimals.org/farms/vedivero" height="150">
+</a>
+<!--</p>-->
 
 <!--dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontrast, dracula, gruvbox_light-->
 <!--https://msyu1207.tistory.com/entry/git-profile-%EA%BE%B8%EB%AF%B8%EA%B8%B0-feat-badge-github-readme-stats-->
