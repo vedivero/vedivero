@@ -1,8 +1,8 @@
 # 👨‍💻 Hello, World! 
 
 <p align="center">
-  <a href="#" style="cursor: default;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox_light" width="48%" height="150"> 
+  <a href="#" style="cursor:default;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vedivero&theme=gruvbox_light&hide_border=true&show_icons=true" width="48%" height="150px"/>
   </a>
   <a href="#" style="cursor: default;">
     <img src="https://render.gitanimals.org/farms/vedivero" width="48%" height="150">
